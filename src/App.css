@@ -1,0 +1,22 @@
+.linha {
+  display: flex;
+  margin-top: 80px;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column; 
+}
+
+h1 {
+    text-align: center;
+    color: #7159c1;
+   }
+
+.App {
+  margin: auto;
+  max-width: 900px;
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+
